@@ -1,16 +1,16 @@
 ---
-Title: Title
-Sponsor: Name (GitHub username / email)
-Created: DD-MM-YYYY
+Title: Test from Doc Kimble
+Sponsor: Name Pizza Hut
+Created: 07-31-2019
 Version: version no.
-Ballot Type: Up/Down, Multi-Option or Approval Ballot
+Ballot Type: Up/Down
 Voting Period: 
 ---
 
-# Insert proposal title like "Example title" here
+# This is a test
 
 ## Description of the proposed Governance Action
-< Insert Text Here>
+< Just giving this a good test run>
 ## Purpose and rationale for the Governance Action and its intended outcomes
 < Insert Text Here>
 ## Identify the specific uses for which Swarm Treasury funds may be expended to support the Governance Action;
@@ -20,5 +20,5 @@ Voting Period:
 - Provide an auditing procedure to account for expenditures;
 - Provide a method for reporting the audit and performance results to the Swarm Network and the Swarm Council.
 
-## License
+## 69
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
